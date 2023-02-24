@@ -9,19 +9,16 @@
 .headerLeft, .headerRight{
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    position: relative;
-    z-index: 9;
 }
 
-.headerLeft a > span{
+a > span{
     margin: 0 30px;
     font-size: 1.3rem;
     cursor: pointer;
     color: white;
 }
 
-.headerLeft a > span:hover{
+a > span:hover{
     color: red;
 }
 
