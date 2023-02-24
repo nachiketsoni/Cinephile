@@ -1,0 +1,31 @@
+.movie_list {
+  padding: 0 3rem 3rem 3rem;
+}
+
+.list_title {
+  font-size: 1.75rem;
+  margin: 2.5rem;
+  text-transform:uppercase;
+}
+
+.list_cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.btn {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nextPage {
+  padding: 10px;
+  width: 100px;
+  
+}
+
+.previousPage {
+  padding: 10px;
+  width: 100px;
+}
