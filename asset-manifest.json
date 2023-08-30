@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cinephile/static/css/main.fa1c56de.css",
+    "main.js": "/Cinephile/static/js/main.661cba83.js",
+    "index.html": "/Cinephile/index.html",
+    "main.fa1c56de.css.map": "/Cinephile/static/css/main.fa1c56de.css.map",
+    "main.661cba83.js.map": "/Cinephile/static/js/main.661cba83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa1c56de.css",
+    "static/js/main.661cba83.js"
+  ]
+}
